@@ -71,4 +71,4 @@ Las pruebas de Lighthouse, WAVE y los validadores CSS no están registradas en `
 
 ## Uso de IA
 
-ChatGPT intervino en el estilo, efectos, documentación y funciones decorativas de JavaScript. Esta versión no supera el límite aproximado del 10 % de uso de IA de la tarea.
+ChatGPT Codex intervino en el estilo, efectos, documentación y funciones decorativas de JavaScript. La estructura y escritura del código original es humana Esta versión no supera el límite aproximado del 10 % de uso de IA de la tarea.
